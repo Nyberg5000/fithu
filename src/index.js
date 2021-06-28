@@ -57,6 +57,9 @@ export default function App() {
           </div>
         </div>
       </div>
+      <p>
+        <a href="#">Open-source code</a> by Tammi Nyberg
+      </p>
     </div>
   );
 }
