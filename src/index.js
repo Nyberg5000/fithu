@@ -58,7 +58,8 @@ export default function App() {
         </div>
       </div>
       <p>
-        <a href="#">Open-source code</a> by Tammi Nyberg
+        <a href="https://github.com/Nyberg5000/fithu">Open-source code</a> by
+        Tammi Nyberg
       </p>
     </div>
   );
